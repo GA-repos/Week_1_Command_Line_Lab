@@ -27,9 +27,6 @@ In the directory created by the clone, create five directories:  `app1`, `app2`,
 
 ![Folder structure](./folder-structure.png)
 
-Link the JS to the HTML, and add a `console.log()` to the JS file like we did in class. 
-
-Open each one in Chrome to make sure it works (i.e. check that you see the text from your `console.log()` in your developer tools). 
 
 
 # Section 1: Terminal Practice
