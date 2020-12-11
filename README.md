@@ -40,9 +40,7 @@ enter… The Terminal.
 Follow the instructions below using all the console commands introduced in
 Fundamentals, class, or that you find on your own.
 
-* Also in the `hw1-unix-commands` directory, create another directory called called `star_wars`.  
-
-* `cd` into the `star_wars` directory, and create a file called `commands.txt`.  You will now have the `commands.txt` file and the `star_wars` directory and this `README.md` file side by side in the directory that was created when you cloned this assignment, along with this README.md file.
+* Also in the `hw1-unix-commands` directory, create another directory called called `star_wars` and create a file called `commands.txt`.  You will now have the `commands.txt` file and the `star_wars` directory and this `README.md` file side by side in the directory that was created when you cloned this assignment.
 
 * Paste the answer to each numbered question (i.e. the command(s) that accomplished the task) into `commands.txt` once you get it to work.  
 
