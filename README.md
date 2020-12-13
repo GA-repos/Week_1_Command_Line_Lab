@@ -28,7 +28,6 @@ In the directory created by the clone, create five directories:  `app1`, `app2`,
 ![Folder structure](./folder-structure.png)
 
 
-
 # Section 1: Terminal Practice
 
 ## Episode X: A New Terminal
@@ -151,7 +150,7 @@ This command will not typically ask you if you "really want to delete." It will 
 <br>
 <hr>
 
-# :red_circle: Commit and push your updated code:
+# :red_circle: Homework submission: Commit and push your updated code:
 
 "Add" your changes (prepare them to be "committed"):
 ```bash
@@ -167,12 +166,6 @@ $ git commit -m "Completed homework assignment"
 ```bash
 $ git push origin master
 ```
-
-# Homework submission
-
-**Good job! You're done!**
-
-When you've got your homework all done, just send a Slack message to your instructor.  Going forward, we will be submitting homework using a "pull request" process in git.  Your instructor will walk you through that submission process first thing in the morning.
 
 ---
 
