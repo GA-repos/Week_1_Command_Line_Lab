@@ -19,15 +19,6 @@ Topics: Getting familiar with the Unix Command Line <br>
 * **IMPORTANT: `cd` into that directory.**  (The directory should be called `hw1-unix-commands`.)
 
 
-# Section 0: "Hello, World!" and folder structure reps.
-
-> Refer to today's notes for a reminder/steps about how to do this.
-
-In the directory created by the clone, create five directories:  `app1`, `app2`, `app3`, `app4`, and `app5`.  In each one repeat the steps from today's notes to create a folder structure like the one below. 
-
-![Folder structure](./folder-structure.png)
-
-
 # Section 1: Terminal Practice
 
 ## Episode X: A New Terminal
