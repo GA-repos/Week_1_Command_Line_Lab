@@ -14,9 +14,11 @@ Topics: Getting familiar with the Unix Command Line <br>
 
 * Open the **Terminal app**
 
-* Your instructor will show you how to clone this repository, which will create a directory with the same name as this repo. 
+* Use the directions [here](https://git.generalassemb.ly/flex-323/hwSubmission/blob/master/README.md) to 
+  - fork + clone the repo at this step
+  - after you're done with the assignment you'll run add/commit/push steps, as well as the create a pull request step/
 
-* **IMPORTANT: `cd` into that directory.**  (The directory should be called `hw1-unix-commands`.)
+* **IMPORTANT: After you've cloned you need to `cd` into that directory.**  (The directory should be called `hw1-cli`.)
 
 
 # Section 1: Terminal Practice
@@ -136,7 +138,7 @@ This command will not typically ask you if you "really want to delete." It will 
 23. Return `x_wing` and the `millenium_falcon` to `yavin_4`.
 
 
-### Celebrate. You've reached the end of section 1 :)
+### Celebrate. You've reached the end of homework 1 :)
 
 <br>
 <hr>
@@ -157,7 +159,7 @@ $ git commit -m "Completed homework assignment"
 ```bash
 $ git push origin master
 ```
-
+Follow the directions on creating a pull request we went over in the second half of class [here](https://git.generalassemb.ly/flex-323/hwSubmission/blob/master/README.md)
 ---
 
 # "Hungry for more?"
