@@ -159,7 +159,7 @@ $ git commit -m "Completed homework assignment"
 ```bash
 $ git push origin master
 ```
-Follow the directions on creating a pull request we went over in the second half of class [here](https://git.generalassemb.ly/flex-323/hwSubmission/blob/master/README.md)
+Follow the directions on creating a pull request we went over in the second half of class [here](https://git.generalassemb.ly/Flex-929/hwSubmission/blob/master/README.md)
 ---
 
 # "Hungry for more?"
