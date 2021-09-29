@@ -14,7 +14,7 @@ Topics: Getting familiar with the Unix Command Line <br>
 
 * Open the **Terminal app**
 
-* Use the directions [here](https://git.generalassemb.ly/flex-323/hwSubmission/blob/master/README.md) to 
+* Use the directions [here](https://git.generalassemb.ly/Flex-928/hwSubmission/blob/master/README.md) to 
   - fork + clone the repo at this step
   - after you're done with the assignment you'll run add/commit/push steps, as well as the create a pull request step/
 
