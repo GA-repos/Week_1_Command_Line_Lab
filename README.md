@@ -1,8 +1,8 @@
 ![GA logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67)
 
-#  Homework: Unix CLI Practice
+#  LAB: Unix CLI Practice
 
-Class: **SEI-CHI**<br>
+Class: **SEI**<br>
 Creator: Thom Page <br>
 Modified by: Kristyn Bryan and Reuben Ayres <br>
 Topics: Getting familiar with the Unix Command Line <br>
@@ -14,11 +14,11 @@ Topics: Getting familiar with the Unix Command Line <br>
 
 * Open the **Terminal app**
 
-* Use the directions [here](https://git.generalassemb.ly/Flex-928/hwSubmission/blob/master/README.md) to 
+* Use the directions [here](https://git.generalassemb.ly/Flex-322/hwSubmission/blob/master/README.md) to 
   - fork + clone the repo at this step
   - after you're done with the assignment you'll run add/commit/push steps, as well as the create a pull request step/
 
-* **IMPORTANT: After you've cloned you need to `cd` into that directory.**  (The directory should be called `hw1-cli`.)
+* **IMPORTANT: After you've cloned you need to `cd` into that directory.**  (The directory should be called `lab1-cli`.)
 
 
 # Section 1: Terminal Practice
@@ -32,7 +32,7 @@ enter… The Terminal.
 Follow the instructions below using all the console commands introduced in
 Fundamentals, class, or that you find on your own.
 
-* Also in the `hw1-unix-commands` directory, create another directory called called `star_wars` and create a file called `commands.txt`.  You will now have the `commands.txt` file and the `star_wars` directory and this `README.md` file side by side in the directory that was created when you cloned this assignment.
+* Also in the `lab1-cli` directory, create another directory called called `star_wars` and create a file called `commands.txt`.  You will now have the `commands.txt` file and the `star_wars` directory and this `README.md` file side by side in the directory that was created when you cloned this assignment.
 
 * Paste the answer to each numbered question (i.e. the command(s) that accomplished the task) into `commands.txt` once you get it to work.  
 
@@ -138,7 +138,7 @@ This command will not typically ask you if you "really want to delete." It will 
 23. Return `x_wing` and the `millenium_falcon` to `yavin_4`.
 
 
-### Celebrate. You've reached the end of homework 1 :)
+### Celebrate. You've reached the end of Lab 1 :)
 
 <br>
 <hr>
@@ -152,14 +152,14 @@ $ git add -A
 
 "Commit" your changes—any time you make a commit, you can always restore the files in the repo to that point:
 ```bash
-$ git commit -m "Completed homework assignment"
+$ git commit -m "Completed Lab assignment"
 ```
 
 "Push" your commits to github:
 ```bash
 $ git push origin master
 ```
-Follow the directions on creating a pull request we went over in the second half of class [here](https://git.generalassemb.ly/Flex-929/hwSubmission/blob/master/README.md)
+Follow the directions on creating a pull request we went over in the second half of class [here](https://git.generalassemb.ly/Flex-322/hwSubmission/blob/master/README.md)
 ---
 
 # "Hungry for more?"
