@@ -143,7 +143,7 @@ This command will not typically ask you if you "really want to delete." It will 
 <br>
 <hr>
 
-# :red_circle: Homework submission: Commit and push your updated code:
+# :red_circle: Homework submission Practice: Commit and push your updated code:
 
 "Add" your changes (prepare them to be "committed"):
 ```bash
